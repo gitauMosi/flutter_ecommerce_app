@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib/models/featuredModel.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/models/featuredModel.dart"
+        }
+    ]
+}
